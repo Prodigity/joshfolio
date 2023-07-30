@@ -31,5 +31,5 @@ jobs:
     - name: Archive production artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: Put artifacts in _site folder
-        path: _site
+        name: Get entire dist from build
+        path: dist/
