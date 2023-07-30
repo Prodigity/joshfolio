@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/joshfolio/","contentClasses":"cards cards-cols-3","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/joshfolio/","contentClasses":"cards cards-cols-3 table-max","tags":["gardenEntry"]}
 ---
 
 
