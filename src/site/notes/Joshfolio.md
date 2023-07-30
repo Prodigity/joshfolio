@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/joshfolio/","contentClasses":"cards, cards-cols-3","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/joshfolio/","contentClasses":"cards cards-cols-3","tags":["gardenEntry"]}
 ---
 
-
-![](/img/user/Images/Code_Doom.png)
-
-![Code_Doom.png](/img/user/Images/Code_Doom.png)
 
 [[Software/3D NFT Art Generator\|3D NFT Art Generator]]
 | embed(link(Cover))                                           | Name                                    | Description                                                                                                                                                                                                                                                                                                                                                     | Summary                                                                                                                                                                                                                                                                                                                                                                                                                | Github |
