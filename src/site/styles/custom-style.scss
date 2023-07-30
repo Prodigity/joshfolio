@@ -3,7 +3,7 @@ body {
         border-radius: 10px;
     }
     
-    .cards table.dataview tbody>tr>td {
+    .cards table.dataview tbody>tr>td:not(:last-child):not(:first-child) {
         border: 0px;
     }
 }
